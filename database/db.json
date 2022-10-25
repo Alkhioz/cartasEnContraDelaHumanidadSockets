@@ -485,6 +485,66 @@
             "legend": "El poder de *CARD* es grande, pero el de cristo rey lo es aun mas",
             "add": 0,
             "requires": 1
+        },
+        {
+            "id": 81,
+            "legend": "La asamblea determinó que *CARD* es totalmente legal",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 82,
+            "legend": "Rapido el *CARD* o la vida",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 83,
+            "legend": "A continuación en ESPN la serie mundial de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 84,
+            "legend": "En la nueva pelicula de Disney, mickey lucha contra *CARD* por primera vez",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 85,
+            "legend": "Haz un haiku",
+            "add": 2,
+            "requires": 3
+        },
+        {
+            "id": 86,
+            "legend": "El secreto para una relación estable es *CARD* y *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 87,
+            "legend": "Por decreto nacional, en Loja ahora comen *CARD* en lugar de perros",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 88,
+            "legend": "El encebollado debe ser acompañado de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 89,
+            "legend": "Acá está la iglesia. Acá está el campanario. Abre la puerta y hay un *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 90,
+            "legend": "Nunca pensé ver *CARD* dentro de *CARD*",
+            "add": 0,
+            "requires": 1
         }
     ]
 }

@@ -305,6 +305,126 @@
             "legend": "Presentando futbol extreme! es como el futbol, pero con *CARD*",
             "add": 0,
             "requires": 1
+        },
+        {
+            "id": 51,
+            "legend": "El museo de historia natural abrió una exhibición interactiva de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 52,
+            "legend": "No se con que armas se peleará la tercera guerra mundial, pero en la cuarta se peleara con *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 53,
+            "legend": "Cuando estaba en acido, *CARD* se transformó en *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 54,
+            "legend": "Durante el sexo me gusta pensar en *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 55,
+            "legend": "¿Qué es es ruido? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 56,
+            "legend": "En un mundo destrozado por *CARD*, nuestro unico consuelo es *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 57,
+            "legend": "¿Porque estoy pegajoso/a? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 58,
+            "legend": "¿Qué están usando los profesores en los colegios de escasos recursos para motivar a los alumnos? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 59,
+            "legend": "Nunca entendí realmente *CARD* hasta que encontré *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 60,
+            "legend": "¿Cual es mi secreto? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 61,
+            "legend": "La vida de los indigenas cambio para siempre cuandolos españoles les presentaron *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 62,
+            "legend": "Una romántica cena a la luz de velas no estará completa sin *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 63,
+            "legend": "Es cierto maté a *CARD* con *CARD*, no me arrepiento",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 64,
+            "legend": "Hoy en America vive, *CARD* la historia de *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 65,
+            "legend": "Querida Rosa, estoy teniendo algunos problemas con *CARD* y me gustaría tu consejo",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 66,
+            "legend": "¿Porque no puedo dormir en las noches? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 67,
+            "legend": "A los manabas le gusta *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 68,
+            "legend": "La medicina alternativa está valorando los poderes curativos de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 69,
+            "legend": "El nuevo chevrolet, con el poder y espacio ppara llevar *CARD* donde quieras",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 70,
+            "legend": "¿Qué es ese olor? *CARD*",
+            "add": 0,
+            "requires": 1
         }
     ]
 }

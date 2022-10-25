@@ -544,6 +544,66 @@
             "id": 90,
             "legend": "Nunca pensé ver *CARD* dentro de *CARD*",
             "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 91,
+            "legend": "Tia calidad, variedad y *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 92,
+            "legend": "Me despidieron por culpa de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 93,
+            "legend": "KFC sacó su nueva recete, pollo con aderezo de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 94,
+            "legend": "Siempre pensé que morir de/por *CARD* seria algo hermoso",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 95,
+            "legend": "El SRI ahora cobra un impuesto a *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 96,
+            "legend": "El presidente ha logrado que *CARD* disminuya",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 97,
+            "legend": "Trabaja honradamente y al final tendras *CARD*, *CARD* y sobretodo *CARD*",
+            "add": 3,
+            "requires": 3
+        },
+        {
+            "id": 98,
+            "legend": "*CARD* no es lo mismo que *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 99,
+            "legend": "Si la vida te da *CARD* haz *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 100,
+            "legend": "Mi mayor miedo es *CARD*",
+            "add": 0,
             "requires": 1
         }
     ]

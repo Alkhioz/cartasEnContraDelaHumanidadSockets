@@ -425,6 +425,66 @@
             "legend": "¿Qué es ese olor? *CARD*",
             "add": 0,
             "requires": 1
+        },
+        {
+            "id": 71,
+            "legend": "Cuando el faraón no cedió, Moisés invoco una plaga de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 72,
+            "legend": "Su señoría no es mi culpa, *CARD* me sedujo",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 73,
+            "legend": "¿Qué hizo que terminara mi ultima relación? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 74,
+            "legend": "¿Cómo perdí la virginidad? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 75,
+            "legend": "Papi, ¿porque está llorando mamá? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 76,
+            "legend": "Se dice que en el guasmo puedes cambiar 200 cigarros *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 77,
+            "legend": "Cuando sea un billonario, construiré una estatua de 20m conmemorando *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 78,
+            "legend": "¿Qué es lo que siempre resulta para acostarte con alguien? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 79,
+            "legend": "En lugar de carbón, ahora santa les da *CARD* a los niños malos",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 80,
+            "legend": "El poder de *CARD* es grande, pero el de cristo rey lo es aun mas",
+            "add": 0,
+            "requires": 1
         }
     ]
 }

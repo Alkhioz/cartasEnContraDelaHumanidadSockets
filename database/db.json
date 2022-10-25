@@ -2,7 +2,159 @@
     "whiteCards": [
         {
             "id": 1,
-            "legend": "___ es en realidad ___"
+            "legend": "Michael jacson"
+        }
+    ],
+    "blackCards": [
+        {
+            "id": 1,
+            "legend": "*CARD* Apuesto a que no puedes solo con uno!",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 2,
+            "legend": "Tal vez ella nació con eso. Quizás es *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 3,
+            "legend": "Bebo para olvidar *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 4,
+            "legend": "Para mi siguiente truco, sacare *CARD* de *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 5,
+            "legend": "*CARD*: bueno hasta la ultima gota",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 6,
+            "legend": "¿Qué comió Vin Diesel en la cena? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 7,
+            "legend": "¿Qué le entregó la ONU a los niños de Siria vía entrega aerea? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 8,
+            "legend": "Tengo 99 problemas pero *CARD* no es uno de ellos",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 9,
+            "legend": "¿Qué me traje de vuelta de guayakill? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 10,
+            "legend": "El nuevo reality tiene como protagonistas a 8 celebridades viviendo con *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 11,
+            "legend": "Guerra! ¿Para qué nos sirve? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 12,
+            "legend": "¿En 1000 años cuando el dinero sea un recuerdo distante, con qué pagaremos por bienes y servicios? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 13,
+            "legend": "¿Sobre que está pensando José Delgado en estos momentos? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 14,
+            "legend": "¿Cúal es la nueva dieta de moda? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 15,
+            "legend": "Lo conseguiré con un poco de ayuda de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 16,
+            "legend": "Este es el modo en que se acaba el mundo; no con una explosión sino con *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 17,
+            "legend": "*CARD* es lo mejor del mundo, especialmente tras *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 18,
+            "legend": "Lo siento profesor, no pude completar mi tarea porque *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 19,
+            "legend": "¿Qué mejora con los años? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 20,
+            "legend": "*CARD* es un camino peligroso que lleva a *CARD*",
+            "add": 0,
+            "requires": 2
+        },
+        {
+            "id": 21,
+            "legend": "¿Porque me duele todo el cuerpo? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 22,
+            "legend": "*CARD*+*CARD*=*CARD*",
+            "add": 2,
+            "requires": 3
+        },
+        {
+            "id": 23,
+            "legend": "Y el OSCAR es para *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 24,
+            "legend": "Es una lastima que los niños de estos días estén involucrados con *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 25,
+            "legend": "¿Qué es mi anti-droga? *CARD*",
+            "add": 0,
+            "requires": 1
         }
     ]
 }

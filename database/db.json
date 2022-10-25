@@ -155,6 +155,156 @@
             "legend": "¿Qué es mi anti-droga? *CARD*",
             "add": 0,
             "requires": 1
+        },
+        {
+            "id": 26,
+            "legend": "¿Qué nunca falla en alegrar la fiesta? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 27,
+            "legend": "*CARD* y asi es como quiero morir",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 28,
+            "legend": "Llegando a broadway esta temporada, *CARD* el musical",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 29,
+            "legend": "1er paso: *CARD*, 2do paso: *CARD*, 3er paso: ganancia",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 30,
+            "legend": "¿Qué cosa encontraria la abuela perturbante, pero extrañamente encantadora? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 31,
+            "legend": "En el cielo hay una tonelada de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 32,
+            "legend": "En el infierno hay una tonelada de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 33,
+            "legend": "El paseo se arruinó completamente por *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 34,
+            "legend": "¿Qué me están escondiendo mis padres? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 35,
+            "legend": "¿Cúal es el placer secreto de naruto? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 36,
+            "legend": "¿Cúal es el mejor amigo de un hombre? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 37,
+            "legend": "¿Cúal es el mejor amigo de una mujer? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 38,
+            "legend": "Cuando sea presidente, crearé el departamento de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 39,
+            "legend": "Un reciente estudio demuestra que los jovenes tiene un 50% menos sexo luego de ser expuestos a *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 40,
+            "legend": "¿Cúal es el próximo juguete de la cajita feliz? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 41,
+            "legend": "*CARD* es una trampa!",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 42,
+            "legend": "Vamos, creemos una secta basada en *CARD* y *CARD*",
+            "add": 1,
+            "requires": 2
+        },
+        {
+            "id": 43,
+            "legend": "Mientras que EEUU competía con la URSS en la carrera espacial, el gobierno ecuatoriano invirtió millones en la investigación de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 44,
+            "legend": "¿Qué estoy dejando por la cuaresma? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 45,
+            "legend": "*CARD* probado con niños, aprobado por madres",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 46,
+            "legend": "¿Qué es lo mas emo? *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 47,
+            "legend": "Próximamente de JK Rowling: Harry Potter y la cámara de *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 48,
+            "legend": "Hoy en caso cerrado: Ayuda! mi hijo es/esta *CARD*",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 49,
+            "legend": "¿Te gusta *CARD*? dame esos 5",
+            "add": 0,
+            "requires": 1
+        },
+        {
+            "id": 50,
+            "legend": "Presentando futbol extreme! es como el futbol, pero con *CARD*",
+            "add": 0,
+            "requires": 1
         }
     ]
 }
